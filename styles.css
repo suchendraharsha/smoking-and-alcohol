@@ -392,9 +392,9 @@ span{
       padding:  0;
     }
     .read-more{
-        width: 100px;
+        width: 80px;
         height: 40px;
-        font-size: 20px;
+        font-size: 13px;
         margin: auto;
         display: flex;
         align-items: center;
